@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qml_custom_model/">
+    <file alias="main.qml">/home/usr/Documents/qt/qml_custom_model/main.qml</file>
+  </qresource>
+</RCC>
+

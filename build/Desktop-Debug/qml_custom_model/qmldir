@@ -1,0 +1,4 @@
+module qml_custom_model
+typeinfo appqml_custom_model.qmltypes
+prefer :/qml_custom_model/
+

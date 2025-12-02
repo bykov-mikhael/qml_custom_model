@@ -1,0 +1,36 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 16,
+                        "durationMicroseconds": 514,
+                        "errorMessage": "Cannot access value for name myModel",
+                        "functionName": "model",
+                        "line": 12
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 122,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 13
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 19,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "Cannot access value for name model",
+                        "functionName": "text",
+                        "line": 15
+                    }
+                ],
+                "filepath": "/home/usr/Documents/qt/qml_custom_model/main.qml"
+            }
+        ],
+        "moduleId": "qml_custom_model(appqml_custom_model)"
+    }
+]

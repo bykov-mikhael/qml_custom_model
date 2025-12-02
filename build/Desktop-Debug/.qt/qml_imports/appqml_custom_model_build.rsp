@@ -1,0 +1,14 @@
+-rootPath
+/home/usr/Documents/qt/qml_custom_model
+-cmake-output
+-output-file
+/home/usr/Documents/qt/qml_custom_model/build/Desktop-Debug/.qt/qml_imports/appqml_custom_model_build.cmake
+-importPath
+/home/usr/Documents/qt/qml_custom_model/build/Desktop-Debug/qml_custom_model
+-importPath
+/home/usr/Documents/qt/qml_custom_model/build/Desktop-Debug
+-importPath
+/usr/lib/x86_64-linux-gnu/qt6/qml
+-qrcFiles
+/home/usr/Documents/qt/qml_custom_model/build/Desktop-Debug/.qt/rcc/qmake_qml_custom_model.qrc
+/home/usr/Documents/qt/qml_custom_model/build/Desktop-Debug/.qt/rcc/appqml_custom_model_raw_qml_0.qrc

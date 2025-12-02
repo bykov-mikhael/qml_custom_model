@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appqml_custom_model_FILE /home/usr/Documents/qt/qml_custom_model/build/Desktop-Debug/appqml_custom_model)
+set(__QT_DEPLOY_TARGET_appqml_custom_model_TYPE EXECUTABLE)

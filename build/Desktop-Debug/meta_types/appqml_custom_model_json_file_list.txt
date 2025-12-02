@@ -1,0 +1,2 @@
+/home/usr/Documents/qt/qml_custom_model/build/Desktop-Debug/appqml_custom_model_autogen/include/../EWIEGA46WW/moc_database.cpp.json
+/home/usr/Documents/qt/qml_custom_model/build/Desktop-Debug/appqml_custom_model_autogen/include/../EWIEGA46WW/moc_model.cpp.json

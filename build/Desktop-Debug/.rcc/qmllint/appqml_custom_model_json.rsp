@@ -1,0 +1,12 @@
+--bare
+-I
+/home/usr/Documents/qt/qml_custom_model/build/Desktop-Debug
+-I
+/usr/lib/x86_64-linux-gnu/qt6/qml
+--resource
+/home/usr/Documents/qt/qml_custom_model/build/Desktop-Debug/.qt/rcc/qmake_qml_custom_model.qrc
+--resource
+/home/usr/Documents/qt/qml_custom_model/build/Desktop-Debug/.qt/rcc/appqml_custom_model_raw_qml_0.qrc
+/home/usr/Documents/qt/qml_custom_model/main.qml
+--json
+/home/usr/Documents/qt/qml_custom_model/build/Desktop-Debug/appqml_custom_model_qmllint.json

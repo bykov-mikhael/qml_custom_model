@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "Model",
+            "lineNumber": 6,
+            "object": true,
+            "qualifiedClassName": "Model",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QSqlQueryModel"
+                }
+            ]
+        }
+    ],
+    "inputFile": "model.hpp",
+    "outputRevision": 68
+}

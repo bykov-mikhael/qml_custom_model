@@ -1,0 +1,5 @@
+--resource
+/home/usr/Documents/qt/qml_custom_model/build/Desktop-Debug/.qt/rcc/qmake_qml_custom_model.qrc
+--resource
+/home/usr/Documents/qt/qml_custom_model/build/Desktop-Debug/.qt/rcc/appqml_custom_model_raw_qml_0.qrc
+/qml_custom_model/main.qml
